@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wladimir88Shevchenko
+- 👋 Hi, I’m  Wladimir Shevchenko
 - 👀 I’m interested in React js, HTML. CSS, JS (Front-End)
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on with web-developer company
